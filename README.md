@@ -1,2 +1,3 @@
 # Beautiful-Wallpapers
-My collection of wallapapers.
+These are the wallpapers I use on my GNU/Linux machine. 
+Anything else?
